@@ -15,7 +15,7 @@ Projet en [langage Elm](https://fr.wikipedia.org/wiki/Elm_(langage)) sous licenc
 
 ```
 ├─**Forkncoffee**
-│  ├─
+│  ├─ Assets
 │  │  ├─
 │  │  ├─
 │  │  └─
@@ -25,23 +25,25 @@ Projet en [langage Elm](https://fr.wikipedia.org/wiki/Elm_(langage)) sous licenc
 │  │  └─
 │  └─
 │ 
-├─
+├─ src
 │   ├─
 │   ├─
 │   ├─
 │   ├─
 │   └─
 │ 
-├─
-│   ├─
-│   │  ├─
-│   │  └─
-│   ├─
-│   │   ├─
-│   │   ├─
-│   │   └─
-│   └─
-│       ├─
-│       └─
-└─ 
+├─ .gitignorre
+│   
+├─ Licence    
+├─ README.md
+├─ INTENTION.md
+│  
+├─ setup.sh
+│
+├─ elm-pacjages.json
+│
+├─ elm-website.cabal
+│
+│       
+└─ Elm
 ```
