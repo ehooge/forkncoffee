@@ -28,49 +28,54 @@ L'objetcif miminmu ext de 500€ avant le 30 juin 2018, avec un espoir de 1000�
 
 ## Arborescence du site internet
 
+V0.1 au 01/06/2018
+
 ```
 ├─**Forkncoffee**
-│  ├─ assets
+│  ├─assets
 │  │  └─blog
 │  │       ├─images
 │  │       ├─ robot.tx
 │  │       └─ style.scss
-│  ├─ src
-│     ├─ backend
+│  └─src
+│     ├─backend
 │     │    ├─Init
 │     │    ├─generate.sh
-│     ├─main.sh
+│     │    ├─main.sh
 │     │    └─router.sh
-│     ├─ editor
-│     │    ├─EditorControls.elm
-│     │    ├─Errors.elm
-│     │    ├─editor.css
-│     │    └─editor.js
+│     ├─editor
+│     │     ├─EditorControls.elm
+│     │     ├─Errors.elm
+│     │     ├─editor.css
+│     │     └─editor.js
 │     ├─pages
-│     │    ├─blog
-│     │    └─article.elm
-│          ├─maps
-│          │    └─placesmap
-│          ├─home.elm
-           ├─community.elm
-           ├─blog.elm
-           ├─examples.elm
-           └─404.elm
-│   ├─
-│   └─
+│     │     ├─blog
+│     │     │    └─article.elm
+│     │     ├─maps
+│     │     │    └─places.elm
+│     │     ├─home.elm
+│     │     ├─community.elm
+│     │     ├─blog.elm
+│     │     ├─examples.elm
+│     │     └─404.elm
+│     └─shared
+│           ├─Blog.elm
+│           ├─map.elm
+│           ├─Center.elm
+│           ├─Skeleton.elm
+│           ├─Message.elm
+│           └─ColoreSheme.elm    
 │ 
-├─ .gitignorre
+├─.gitignorre
 │   
 ├─ Licence    
 ├─ README.md
 ├─ INTENTION.md
 │  
-├─ setup.sh
+├─setup.sh
 │
-├─ elm-pacjages.json
+├─elm-pacjages.json
 │
-├─ elm-website.cabal
-│
-│       
-└─ Elm
+└─elm-website.cabal
+
 ```
