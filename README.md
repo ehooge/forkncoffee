@@ -15,20 +15,32 @@ Projet en [langage Elm](https://fr.wikipedia.org/wiki/Elm_(langage)) sous licenc
 
 ```
 ├─**Forkncoffee**
-│  ├─ Assets
-│  │  ├─
-│  │  ├─
-│  │  └─
-│  ├─
-│  │  ├─
-│  │  ├─
-│  │  └─
-│  └─
-│ 
-├─ src
-│   ├─
-│   ├─
-│   ├─
+│  ├─ assets
+│  │  └─blog
+│  │       ├─images
+│  │       ├─ robot.tx
+│  │       └─ style.scss
+│  ├─ src
+│     ├─ backend
+│     │    ├─Init
+│     │    ├─generate.sh
+│     ├─main.sh
+│     │    └─router.sh
+│     ├─ editor
+│     │    ├─EditorControls.elm
+│     │    ├─Errors.elm
+│     │    ├─editor.css
+│     │    └─editor.js
+│     ├─pages
+│     │    ├─blog
+│     │    └─article.elm
+│          ├─maps
+│          │    └─placesmap
+│          ├─home.elm
+           ├─community.elm
+           ├─blog.elm
+           ├─examples.elm
+           └─404.elm
 │   ├─
 │   └─
 │ 
