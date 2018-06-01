@@ -20,11 +20,11 @@ L'objetcif miminmu ext de 500€ avant le 30 juin 2018, avec un espoir de 1000�
 <p align="center">
     <b><a href="https://paypal.me/pools/c/84Ug9UH2cW">Paypal</a></b>
     |
-    <b><a href="https://g1.duniter.fr#/app/wot/92UU85KeAXuVjvnfyXWxPkcTSeE68Ftt4D53tJVVNrgN/Xavier%20Coadic">Ğ1 | Duniter</a></b>
+    <b><a href="https://g1.duniter.fr#/app/wot/92UU85KeAXuVjvnfyXWxPkcTSeE68Ftt4D53tJVVNrgN/Xavier%20Coadic">Ğ1 - Duniter</a></b>
+    |
+   <b><a href="https://liberapay.com/Xav.CC">Liberapay</a></b>
 </p>
 
-
-<div style="float:right;"><script src="https://liberapay.com/Xav.CC/widgets/button.js"></script></div>
 
 ## Arborescence du site internet
 
