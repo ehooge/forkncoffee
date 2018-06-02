@@ -14,7 +14,7 @@ Déclaration d'intentions et contexte du projet Forkncoffe
     + [Qui](#qui)
     + [Pourqui](#pourqui)
     + [Comment](#comment)
-  + 2.3 [Objet de l'action](#objets-de-l'action)
+  + 2.3 [Objet de l'action](#objet-de-l'action)
   + 2.4 [Temps de travail](#temps-de-travail)
   + 2.5 [Argent](#argent)
   + 2.6 [Technologies et techniques](#technologies-et-techniques)
