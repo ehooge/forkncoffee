@@ -74,7 +74,7 @@ V0.1 au 01/06/2018
 │  
 ├─setup.sh
 │
-├─elm-pacjages.json
+├─elm-package.json
 │
 └─elm-website.cabal
 
