@@ -66,6 +66,11 @@ V0.1 au 01/06/2018
 │           ├─Message.elm
 │           └─ColoreSheme.elm    
 │ 
+├─Data
+│    └─locations
+│           └─villes
+│                 ├─ville.json
+│                 └─ville2.json
 ├─.gitignorre
 │   
 ├─ Licence    
