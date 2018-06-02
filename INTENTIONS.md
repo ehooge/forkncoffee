@@ -40,7 +40,7 @@ Pour faire plus simple, nous cherchions à concevoir des circonstances de rencon
 
 Lors de cette expérience courte mais intense, une petite communauté d'une cinquante de personne s'était formée. Nous avons surtout appris que cela plaisait beaucoup aux commerçants indépendants,aux associations, et d'autres, de voir des dévelopeuses et développeurs, juristes, graphistes, étudiant⋅e⋅s, entrepreneur⋅e⋅s, freelances, venir travailler à leurs cotés.
 
-j'ai quitté Marseille et workncoffee fin 2013
+j'ai quitté Marseille et workncoffee fin 2013, laissant derrière moi Marseille un terrain de jeu de coworking de 240 km² et ses 111 quartiers.
 
 _À continuer_
 ### Démarches liées et projets connectés
