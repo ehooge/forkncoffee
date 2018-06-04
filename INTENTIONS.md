@@ -2,7 +2,7 @@ Déclaration d'intentions et contexte du projet Forkncoffe, conception de platef
 
 #### tables de contenues
 1. [Contexte et intentions](#contexte-et-intentions)
-  + 1.1 [Orgines](#orgines)
+  + 1.1 [Orgines](#origines)
   + 1.2 [Démarches liées et projets connectés](#démarches-liées-et-projets-connectés)
   + 1.3 [Environnement actuel du terrain](#environnement-actuels-du-terrain)
   + 1.4 [Visions](#visions)
@@ -40,22 +40,24 @@ Pour faire plus simple, nous cherchions à concevoir des circonstances de rencon
 
 Lors de cette expérience courte mais intense, une petite communauté d'une cinquante de personne s'était formée. Nous avons surtout appris que cela plaisait beaucoup aux commerçants indépendants,aux associations, et d'autres, de voir des dévelopeuses et développeurs, juristes, graphistes, étudiant⋅e⋅s, entrepreneur⋅e⋅s, freelances, venir travailler à leurs cotés.
 
-j'ai quitté Marseille et workncoffee fin 2013, voyant Marseille comme un terrain de jeu de coworking de 240 km² et ses 111 quartiers.
+J'ai quitté Marseille et workncoffee fin 2013, voyant Marseille comme un terrain de jeu de coworking de 240 km² et ses 111 quartiers.
 
-_À continuer_
+De 2013 à 2018 j'ai participé à plusieurs diverses projets concernant lesmutations du travail, soit comme contributeur, soit comme fondatuer-contributeur.
+
 ### Démarches liées et projets connectés
-_mettre en phrases_
 
-+ movilab.org
-+ indiecamp
-+ multbao.org + repo nomades
-+ wlakingdev
-+ devffreindlyplaces
-+ fork the world
-+ Bretgane lab tour
-+ LabOSe
-+ Biome community
-+ [...]
+Ces démarches et projest nourrissent les réfléxion sur les problématiques auxquelles forkncoffee tente de répondre, ils permettent également des apports méthodologiques, techniques et techologiques au projet.
+
++ movilab.org, le wiki des tiers-lieux libres et open source - contributeur
++ indiecamp, format libre de tiers-lieux éphémère en milieu rural - fondateur-contributeur
++ multbao.org + repo nomades, la boite à touils des organisations collaboratives - contributeur.
++ walkingdev, découvrir les choses du web et apprendre en marchant - contributeur
++ devffreindlyplaces, catographies des lieux où travailler hors des murs - contributeur
++ fork the world, livre numérique sur les mutations du travail - contributeur
++ Bretgane lab tour 2015, tour de Bretagne des fablabs - fondateur-contributeur
++ LabOSe 2016, tour de France des pratiques collabroatives dans les Communs - fondatuer-cobtributeur
++ Biome community, hacklab de biomimétisme et communauté étendue
++ DAISEE, Internets of energy, energy as a common - contributeur
 
 ### Environnement actuel du terrain
 
@@ -81,7 +83,39 @@ L'arrêt de mutinerie coworking Paris.
 
 ### Temps de travail
 
+Forkncoffee est démarré au 1er juin 2018, la sortie prévue est 10 septembre 2018. 3 mois de travail sérieux et appliqué ainsi qu'un livre nuémrique alimenté pas à pas sur l'epérience d'apprentissage et de partage du langage elm et du porjet fokncoffee.
+
+C'est un temps délibérément choisi pour faciliter le compréhension et l'inétgration des conceptes en langage elm, c'est une temps permattant une démarche itérative non-linéaire d'apprentissage et de partage.
+
+Je souhaite inscrire cela dans un carte chaotique (choas map) par opposition à une carte de route (raodmap) standarisée afin de tester et de documenter cette expérience d'apprentissage par le faire qui ne rentre pas dans cahier des charges habituels. Ceci sera notamment matérialisé par l'écriture d'un livre numérique sous licence libre. 
+
 ### Argent
+
+L'argent n'est pas une chose sale, l'argent est nécessaire pour développer des projets. C'est l'origine de cet argent et l'usage que l'on en fait qui induisent une qualité, propore ou sale, à cet argent.
+
+j'ai donc pris le parti de proposer de financer ce projet fokncoffee par une campgne de dons libres provenant de personnes trouvant un intérêt à cette démarche. Au-delà de l'apesct projet et temps de développement web de la première version du prototype forkncoffee, je propose également d'alimenter les plus régulièrement possible en livre numérique, également sous licence libre, afin de fournir la traces documentées d'un processus chaotique d'apprentissage du langage elm au travers des avancées de ce projet. C'est le concept du « Apprendre en faisant, apprendre en paratgeant ». ces efforts sont fournis pour partager un maximin de savoirs libres, savoir-faire et savoir-être, ainsi qu'à favoriser l'approriation et la réutilisation des processus qui mènent à un prototype et la Ce livre est intitulé « [Elm : apprendre par le chaos d'un prototype](https://xavcc.gitbooks.io/elm-chaos/content) »
+
+La campagne de dons vise ainsi à permettre d'alimenter et maintenir ces deux faces du projet.
+
+**L'objectif miminmu ext de 500€ avant le 30 juin 2018***, avec un espoir de 1000€ avant les 3 mois de travail. Commencé au 1er juin, date de sortie 10 spetembre 2018. 
+
+Pour soutenir, 3 moyens possibles : 
+
+<p align="center">
+    <b><a href="https://paypal.me/pools/c/84Ug9UH2cW">Collecte sur Paypal</a></b>
+    |
+    <b><a href="https://g1.duniter.fr#/app/wot/92UU85KeAXuVjvnfyXWxPkcTSeE68Ftt4D53tJVVNrgN/Xavier%20Coadic">don en Ğ1 - Duniter</a></b>
+    |
+   <b><a href="https://liberapay.com/Xav.CC">petits dons hébdomandaires sur Liberapay</a></b>
+</p>
+
++ Pour l'atteinte du palier de 500€ : le code de forkncoffee est intégralement publié en version 
++ Pour le palier de 1000€ : forkncoffee est « officiellement » lancé le 10 septembre
+
+Au-delà de ces paliers :
+
++ Pour 1 500€ : forkncoffee intègre un ou plusieurs interfaces graphiques codées en elm pour faciliter la contribution
++ plus de 1 500€ : l'argent sera reversé en plusieurs dons à d'autres porjets libres et open source.
 
 ### Technologies et techniques
 
@@ -96,5 +130,6 @@ L'arrêt de mutinerie coworking Paris.
 #### Intimité et données personnelles
 
 #### Sécurité 
+_En cours d'invetigation_
 
 # Remerciements
