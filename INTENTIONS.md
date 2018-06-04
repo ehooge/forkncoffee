@@ -32,6 +32,10 @@ Déclaration d'intentions et contexte du projet Forkncoffe, conception de platef
 
 Repenser la qualité de vie les conditions de travail et les productions attendues en appliquant les mêmes cultures et recettes que celles du 20ème siècle ne mènera pas à des résultats différents.
 
+Nous avons aujourd'huii presque toutes les briques culturelles, intelectuelles, technologiques et retours d'expériences, nécessaires à une mutation vers plus de soutenabilité. Mais nous marchons toujours dans les sentiers d'une indistialisation concentrative et en silo des conditions de travail. 
+
+Que pouvons-nous mettre en œuvre pour améliorer nos conditions et permettre à de meilleurs circonstances de voir le jour ?
+
 ### Origines
 
 Marseille 2012, avec trois personnes nous lancions Workncoffee, via un wordpress cheap <https://marseilleworkncoffee.wordpress.com>, basé sur la une volonté d''exaptation du travail. L'exaptation est une adaptation sélective opportuniste, privilégiant des caractères qui sont utiles à une nouvelle fonction, pour laquelle ils n'avaient pas été initialement sélectionnés. Par exemple, lors d'une baisse de la quantité d’oxygène dans l'eau des lagunesau corbonifère les tétropodes se sont mis à utiliser un sac repsiratoire (ancêtre des poumons) pour s'adapterà  la vie terrestre et la repsiration aérienne. Un organe qui n'était auparavnt pas utilisé lors de leur vie en milieu auqatique.
@@ -63,25 +67,62 @@ Ces démarches et projest nourrissent les réfléxion sur les problématiques au
 
 ### Environnement actuel du terrain
 
-L'arrêt de mutinerie coworking Paris.
+L'annonce « [Fermeture de La Mutinerie : la fin de l’innocence du coworkingnce](https://www.helloopenworld.com/la-fin-de-linnocence-du-coworking-5762) » au printemps 2018 mettait en visibilité un changement profond démarré il y quelques années : Le coworking est devenu un business sans pratiques communautaires collaboratives.
+
+Pourtant, nous avons depuis peu une défintion scientifique universitaire des tiers-lieux par le docteur Antoine Burret, dans sa thèse [Etude de la configuration en Tiers-Lieu - La repolitisation par le service](http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service) :
+
+> « _Celle-ci envisage le tiers-lieu comme une configuration sociale particulière où se produit une rencontre entre des entités individuées qui s’engagent intentionnellement à la conception d’une représentation commune, c’est-à-dire à responsabilité partagée. Des invariants sont enfin posés comme l’esquisse d’une logique opératoire supposée déterminer la présence de la configuration en tiers-lieu._ »
+
+Alors si conditions de travail, coworking et tiers-lieux, souffrent de maux, nous pouvons regarder cela au prisme d'évènements contemporains.
+
+Github est racheté par Microsoft, ce qui inquiète 95% du code source des logiciels libres puisqu'ils sont présent sur la plateforme github qui était déjà avant son rachat une entreprise de droit privé ; et Microsoft était déjà le plus gros contributeur à github. C'est la concentration qui est dangereuse dans ce processus. Apparait alors les question de migrer vers vers Gitlab.org : savez-vous que Google est en fait un énorme investisseur dans Gitlab entreprise de droit privé ?
+
+Le problème n'est pas que Microsoft achète Github. Il s'agit de centralisation et de silos. Vous ne résoudrez pas cela en déplaçant vos données d'un silo à l'autre.
+
+Les coworking et tiers-lieux libres et open source ont leur portail informationnel, <http://movilab.org>, qui contient recettes, retour d'expériences, documentation de processus et configuration sociale, de nombreuses données. Mais ce portail ne facorise pas les condtions de rencontre pour faire tiers-lieux presque n'importe où. car il s'agit bien de faire tiers-lieux et non de limiter cette configuration sociale particulière et responsabilités partagées à simplement quatre murs et toit, et encore mois à des frontière administrative.
+
+Il y a des centaines d'intiatives d'agrégation des tiers-lieux, mais rien de décentralisé ni fédéré, prfois même avec des sutèmes non-libres. 
+
+Il y a une galaxie d'initiatives tiers-lieux, tiers-jardin, coworking rural, graines libres, jardin partagé, artisans responsables et solidaires, bar alternatifs, qui voient leurs paysages se faire racheter ou dévorer par des industries de la centralisation et/ou être invisibilisé par des silos de la communication. 
+
+Nous n'avons pas encore franchi le passage vers une proposition d'ossature (framework) facilitant l'acquisition par l'expérience vécue des briques culturelles, intelectuelles, technologiques, pour déployer de façon distribuée les conditions et circonctances de recnontres pour laisser émergées de situations brisant les silos et concentrations en fournissant une décentralisation fédérée. 
+
 
 ### Visions
 
+Essayons de faire de forkncoffee une des étapes vers ces ossatures avec un prototype sous licence dans le domaine public, avec des documentations, blogging, cartes géographiques et jeux de données, distribués, décentralisés et fédérés.
+
+Forkncoffee est projet pour les rassembler et gouverner tous ? Non ! Car inverstigué pour être basé sur un principe de fédération (voir [backlog](https://github.com/XavCC/forkncoffee/projects/1).
+
+Des cartes géogrpahiques ? Non ! Des paysages de données commentées par celles et ceux qui les font et non limitées à des frontières adminitratives ; et surtout des cartes, et non une carte, avec des intersctices qui penvent se chevaucher pour rendre visibles les interconnexionx entre les communautés de pratiques. 
+
+Forkncoffee est simple site internet avec des cartes et des publications ? Non ! Car il peut facilement devenir l'outil qu'une personne copie et modifie pour l'adapter aux besoins d'autres micro groupes sociaux (AMAPa, FabLabs, fédérations des amateurs de cerf-volant, professionnel de la micro-brasserie...)
+
 ## Intentions
+
+Tout en aprenant et en concevant un prototype technologique partagé et documenté au jour le jour, il est important d'essayer d'apporter les conditions nouvelles pour répondre aux problèmes décrits précédemment. Il s'agit de prototyper en itération permanente, de sortir des cartes de routes (roadmap) pour tenter un fonctionnement en chaos (chaos map), de collaborer au mieux à plusieur et de documenter techniques, méthologies et technologies en temps quasi instantané. 
 
 ### Proposition de valeur
 
+_en cours de rédaction_
+
 ### Gouvernance
+
+_en cours de rédaction_
 
 #### Pourquoi
 
+_en cours de rédaction_
 #### Qui
 
+_en cours de rédaction_
 #### Pourqui
 
 #### Comment
 
 ### Objet de l'action
+
+_en cours de rédaction_
 
 ### Temps de travail
 
@@ -121,16 +162,22 @@ Au-delà de ces paliers :
 
 ### Technologies et techniques
 
+_en cours de rédaction_
 #### Langage Elm
 
+_en cours de rédaction_
 #### Apprendre en faisant
 
+_en cours de rédaction_
 #### Partager en faisant
 
+_en cours de rédaction_
 #### Hygiène numérique
 
+_en cours de rédaction_
 #### Intimité et données personnelles
 
+_en cours de rédaction_
 #### Sécurité 
 _En cours d'invetigation_
 
