@@ -1,4 +1,4 @@
-Déclaration d'intentions et contexte du projet Forkncoffe
+Déclaration d'intentions et contexte du projet Forkncoffe, conception de plateformes libres et décentralisées (et peut-être fédérées) en strcuture libre (free framework) pour faire tiers-lieux presque partout et paysages en communs par strates (layers) décentralisées.
 
 #### tables de contenues
 1. [Contexte et intentions](#contexte-et-intentions)
@@ -32,7 +32,7 @@ Déclaration d'intentions et contexte du projet Forkncoffe
 
 ### Origines
 
-Marseille 2012, avec trois personnes nous lancions Workncoffee, via un wordpress cheap <https://marseilleworkncoffee.wordpress.com>, basé sur la une volonté d''exaptation du travail. L'exaptation est une adaptation sélective opportuniste, privilégiant des caractères qui sont utiles à une nouvelle fonction, pour laquelle ils n'avaient pas été initialement sélectionnés. Par exemple, [...].
+Marseille 2012, avec trois personnes nous lancions Workncoffee, via un wordpress cheap <https://marseilleworkncoffee.wordpress.com>, basé sur la une volonté d''exaptation du travail. L'exaptation est une adaptation sélective opportuniste, privilégiant des caractères qui sont utiles à une nouvelle fonction, pour laquelle ils n'avaient pas été initialement sélectionnés. Par exemple, lors d'une baisse de la quantité d’oxygène dans l'eau des lagunesau corbonifère les tétropodes se sont mis à utiliser un sac repsiratoire (ancêtre des poumons) pour s'adapterà  la vie terrestre et la repsiration aérienne. Un organe qui n'était auparavnt pas utilisé lors de leur vie en milieu auqatique.
 
 > _Les exaptations sont la reconfiguration créative de la technologie par leurs utilisateurs, soit en tant que sous-produit d'une fonction précédente (co-optation), soit en tant que produit d'une fonction précédente (co-option). 
 
@@ -40,7 +40,7 @@ Pour faire plus simple, nous cherchions à concevoir des circonstances de rencon
 
 Lors de cette expérience courte mais intense, une petite communauté d'une cinquante de personne s'était formée. Nous avons surtout appris que cela plaisait beaucoup aux commerçants indépendants,aux associations, et d'autres, de voir des dévelopeuses et développeurs, juristes, graphistes, étudiant⋅e⋅s, entrepreneur⋅e⋅s, freelances, venir travailler à leurs cotés.
 
-j'ai quitté Marseille et workncoffee fin 2013, laissant derrière moi Marseille un terrain de jeu de coworking de 240 km² et ses 111 quartiers.
+j'ai quitté Marseille et workncoffee fin 2013, voyant Marseille comme un terrain de jeu de coworking de 240 km² et ses 111 quartiers.
 
 _À continuer_
 ### Démarches liées et projets connectés
