@@ -42,9 +42,9 @@ V0.1 au 01/06/2018
 │  └─src
 │     ├─backend
 │     │    ├─Init
-│     │    ├─generate.sh
-│     │    ├─main.sh
-│     │    └─router.sh
+│     │    ├─generate.hs
+│     │    ├─main.hs
+│     │    └─router.hs
 │     ├─editor
 │     │     ├─EditorControls.elm
 │     │     ├─Errors.elm
