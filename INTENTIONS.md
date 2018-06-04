@@ -136,6 +136,8 @@ _en cours de rédaction_
 
 _en cours de rédaction ; **pattern**, **strutures libres** et **strates**_
 
+![](/assets/blog/images/layerscommonslandscape_2.jpg)
+
 ### Objet de l'action
 
 _en cours de rédaction_
