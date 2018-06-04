@@ -48,32 +48,37 @@ Lors de cette expérience courte mais intense, une petite communauté d'une cinq
 
 J'ai quitté Marseille et workncoffee fin 2013, voyant Marseille comme un terrain de jeu de coworking de 240 km² et ses 111 quartiers.
 
-De 2013 à 2018 j'ai participé à plusieurs diverses projets concernant les mutations du travail et les ogranisations novatrices, soit comme contributeur, soit comme fondatuer-contributeur.
+Les intuitions qui étaient nées de cette 1ère expéreince sont :
++ Les conditions et cirocnstances de rencontres sont un schéma = **Pattern**
++ Des blogs et un site internet avec documentation peuvent préfigurer unesquisse de structure de focntionnement = **Framework**
++ Les cartes que nous faisons avec les histoires qui les accompagnent sont strates géographiques et sociologiques = **Layer**
+
+De 2013 à 2018 j'ai participé à plusieurs diverses projets concernant les mutations du travail et les ogranisations novatrices, soit comme contributeur, soit comme fondateur-contributeur.
 
 ### Démarches liées et projets connectés
 
 Ces démarches et projest nourrissent les réfléxion sur les problématiques auxquelles forkncoffee tente de répondre, ils permettent également des apports méthodologiques, techniques et techologiques au projet.
 
-+ movilab.org, le wiki des tiers-lieux libres et open source - contributeur
-+ indiecamp, format libre de tiers-lieux éphémère en milieu rural - fondateur-contributeur
-+ multbao.org + repo nomades, la boite à touils des organisations collaboratives - contributeur.
-+ walkingdev, découvrir les choses du web et apprendre en marchant - contributeur
-+ devffreindlyplaces, catographies des lieux où travailler hors des murs - contributeur
-+ fork the world, livre numérique sur les mutations du travail - contributeur
-+ Bretgane lab tour 2015, tour de Bretagne des fablabs - fondateur-contributeur
-+ LabOSe 2016, tour de France des pratiques collabroatives dans les Communs - fondatuer-cobtributeur
-+ Biome community, hacklab de biomimétisme et communauté étendue
-+ DAISEE, Internets of energy, energy as a common - contributeur
++ movilab.org, le wiki des tiers-lieux libres et open source - [contributeur](http://movilab.org/index.php?title=Utilisateur:XavCC)
++ [indiecamp](http://movilab.org/index.php?title=IndieCamp), format libre de tiers-lieux éphémère en milieu rural - fondateur-contributeur
++ [multbao.org + repo nomades](http://www.multibao.org), la boite à touils des organisations collaboratives - [contributeur et mianteneur](https://github.com/orgs/multibao/teams/gestionnaires/members).
++ [walkingdev](http://walkingdev.fr), découvrir les choses du web et apprendre en marchant - contributeur
++ [devffreindlyplaces](https://github.com/XavCC/devfriendlyplaces), catographies des lieux où travailler hors des murs - contributeur
++ [fork the world](https://world-trust-foundation.gitbooks.io/fork-the-world/content), livre numérique sur les mutations du travail - contributeur
++ [Bretgane lab tour 2015](https://xavcc.gitbooks.io/vivre-ensemble-faire-ensemble/content), tour de Bretagne des fablabs - fondateur-contributeur
++ [LabOSe 2016](https://paper.dropbox.com/doc/LabOSe-Laboratoire-open-source-dexperiences-libres-et-distribuees-KwBdA6CpH17tiqPcCgmfW), laboratoire intinérant des pratiques collaboratives dans les Communs - fondatuer-cobtributeur
++ [Biome community](http://umap.openstreetmap.fr/fr/map/we-are-biomers_148365#4/40.48/-46.45), hacklab de biomimétisme et communauté étendue
++ [DAISEE](https://daisee.org), Internets of energy, energy as a common - contributeur
 
 ### Environnement actuel du terrain
 
-L'annonce « [Fermeture de La Mutinerie : la fin de l’innocence du coworkingnce](https://www.helloopenworld.com/la-fin-de-linnocence-du-coworking-5762) » au printemps 2018 mettait en visibilité un changement profond démarré il y quelques années : Le coworking est devenu un business sans pratiques communautaires collaboratives.
+L'annonce « [Fermeture de La Mutinerie : la fin de l’innocence du coworkingnce](https://www.helloopenworld.com/la-fin-de-linnocence-du-coworking-5762) » au printemps 2018 mettait en visibilité un changement profond démarré il y a quelques années : Le coworking est devenu un business sans pratiques communautaires collaboratives.
 
 Pourtant, nous avons depuis peu une défintion scientifique universitaire des tiers-lieux par le docteur Antoine Burret, dans sa thèse [Etude de la configuration en Tiers-Lieu - La repolitisation par le service](http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service) :
 
 > « _Celle-ci envisage le tiers-lieu comme une configuration sociale particulière où se produit une rencontre entre des entités individuées qui s’engagent intentionnellement à la conception d’une représentation commune, c’est-à-dire à responsabilité partagée. Des invariants sont enfin posés comme l’esquisse d’une logique opératoire supposée déterminer la présence de la configuration en tiers-lieu._ »
 
-Alors si conditions de travail, coworking et tiers-lieux, souffrent de maux, nous pouvons regarder cela au prisme d'évènements contemporains.
+Alors si conditions de travail, coworking et tiers-lieux, souffrent de maux, nous pouvons regarder cela au prisme d'évènements contemporains et les comparer à des mécanismes identifiables. 
 
 Github est racheté par Microsoft, ce qui inquiète 95% du code source des logiciels libres puisqu'ils sont présent sur la plateforme github qui était déjà avant son rachat une entreprise de droit privé ; et Microsoft était déjà le plus gros contributeur à github. C'est la concentration qui est dangereuse dans ce processus. Apparait alors les question de migrer vers vers Gitlab.org : savez-vous que Google est en fait un énorme investisseur dans Gitlab entreprise de droit privé ?
 
@@ -82,6 +87,15 @@ Le problème n'est pas que Microsoft achète Github. Il s'agit de centralisation
 Les coworking et tiers-lieux libres et open source ont leur portail informationnel, <http://movilab.org>, qui contient recettes, retour d'expériences, documentation de processus et configuration sociale, de nombreuses données. Mais ce portail ne facorise pas les condtions de rencontre pour faire tiers-lieux presque n'importe où. car il s'agit bien de faire tiers-lieux et non de limiter cette configuration sociale particulière et responsabilités partagées à simplement quatre murs et toit, et encore mois à des frontière administrative.
 
 Il y a des centaines d'intiatives d'agrégation des tiers-lieux, mais rien de décentralisé ni fédéré, prfois même avec des sutèmes non-libres. 
+
+Alors, comment aller vers des « Vers des espaces ouverts et partagés » [Simon Sarazin], nous avons besoins de favoriser des culturelles libres et de la compostabilité d'un écosystème.
+
+De la compostabilité :
++ elle se pense et se prépare très en amont,
++ elle permet de mettre fin aux projets lorsque nécessaire tout en leur assurant un nouveau départ,
++ elle nécessite le partage sincère de l’ensemble des ressources produites.
+
+Rendre son projet compostable, c’est fertiliser les idées en les partageant et tendre vers des organisations plus vivantes, vivaces et vivables. (source [Romain Lalande](https://vecam.org/La-compostabilite-pour-un-ecosysteme-de-projets-vivaces))
 
 Il y a une galaxie d'initiatives tiers-lieux, tiers-jardin, coworking rural, graines libres, jardin partagé, artisans responsables et solidaires, bar alternatifs, qui voient leurs paysages se faire racheter ou dévorer par des industries de la centralisation et/ou être invisibilisé par des silos de la communication. 
 
@@ -119,6 +133,8 @@ _en cours de rédaction_
 #### Pourqui
 
 #### Comment
+
+_en cours de rédaction ; **pattern**, **strutures libres** et **strates**_
 
 ### Objet de l'action
 
