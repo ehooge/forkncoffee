@@ -2,7 +2,7 @@
   <h2 align="center">ForknCoffee</h2>
 </p>
 
-Strcuture libre (free framework) pour faire tiers-lieux presque partout et paysages en communs par strates décentralisées  Projet en [langage Elm](https://fr.wikipedia.org/wiki/Elm_(langage)) sous licence  AGPL v3.0 de plateforme collective pour travailler autrement et partout `#DIY` `#DIWO` `#DITO` en libre coworking
+Strcuture libre (free framework) pour faire tiers-lieux presque partout et paysages en communs par strates (layers) décentralisées. Projet en [langage Elm](https://fr.wikipedia.org/wiki/Elm_(langage)) sous licence  AGPL v3.0 de plateforme collective pour travailler autrement et partout `#DIY` `#DIWO` `#DITO` en libre coworking
 
 
 <p align="center">
