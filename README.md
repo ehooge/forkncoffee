@@ -8,7 +8,7 @@ Structure libre (free framework) pour faire tiers-lieux presque partout et paysa
 <p align="center">
     <b><a href="https://github.com/XavCC/forkncoffee/blob/master/LICENSE">Licence</a></b>
     |
-    <b><a href="https://github.com/XavCC/forkncoffee/issues">Intentions</a></b>
+    <b><a href="https://github.com/XavCC/forkncoffee/blob/master/INTENTIONS.md">Intentions</a></b>
     |
     <b><a href="https://github.com/XavCC/forkncoffee/projects">Backlog</a></b>
 </p>
