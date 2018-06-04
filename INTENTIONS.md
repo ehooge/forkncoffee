@@ -1,4 +1,4 @@
-Déclaration d'intentions et contexte du projet Forkncoffe, conception de plateformes libres et décentralisées (et peut-être fédérées) en strcuture libre (free framework) pour faire tiers-lieux presque partout et paysages en communs par strates (layers) décentralisées.
+Déclaration d'intentions et contexte du projet Forkncoffe, conception de plateformes libres et décentralisées (et peut-être fédérées) en strcuture libre (free framework) pour faire coworking ou tiers-lieux presque partout et faire paysages en communs par strates (layers) distrubées.
 
 #### tables de contenues
 1. [Contexte et intentions](#contexte-et-intentions)
@@ -30,19 +30,21 @@ Déclaration d'intentions et contexte du projet Forkncoffe, conception de platef
 
 ## Contexte
 
+Repenser la qualité de vie les conditions de travail et les productions attendues en appliquant les mêmes cultures et recettes que celles du 20ème siècle ne mènera pas à des résultats différents.
+
 ### Origines
 
 Marseille 2012, avec trois personnes nous lancions Workncoffee, via un wordpress cheap <https://marseilleworkncoffee.wordpress.com>, basé sur la une volonté d''exaptation du travail. L'exaptation est une adaptation sélective opportuniste, privilégiant des caractères qui sont utiles à une nouvelle fonction, pour laquelle ils n'avaient pas été initialement sélectionnés. Par exemple, lors d'une baisse de la quantité d’oxygène dans l'eau des lagunesau corbonifère les tétropodes se sont mis à utiliser un sac repsiratoire (ancêtre des poumons) pour s'adapterà  la vie terrestre et la repsiration aérienne. Un organe qui n'était auparavnt pas utilisé lors de leur vie en milieu auqatique.
 
 > _Les exaptations sont la reconfiguration créative de la technologie par leurs utilisateurs, soit en tant que sous-produit d'une fonction précédente (co-optation), soit en tant que produit d'une fonction précédente (co-option). 
 
-Pour faire plus simple, nous cherchions à concevoir des circonstances de rencontres de rencontres entre individus de sphère professionnelles différentes, nous voulion sfaire tiers-liuex libres presque n'importe où, nous vision les qualités de nos conditions de travail. Café de quartiers, plages, salle associative, appartement, studio d'enregistrement... Nous avons testé de nombreux spots de coworking qui à l'époque semblaient « insolites » pour beaucoup de monde. Cela nous à couté moins cher que les bureau partagé co-working business de l'époque à Marseille, cela à permis de rencontres avec des marin-pécheurs, cela été fait avec plus de libertés et de conforts que ne le permettaient les espaces auto-proclaés co-working.
+Pour faire plus simple, nous cherchions à concevoir des circonstances de rencontres de rencontres entre individus de sphère professionnelles différentes, nous voulion sfaire tiers-liuex libres presque n'importe où, nous vision les qualités de nos conditions de travail. Café de quartiers, plages, salle associative, appartement, studio d'enregistrement... Nous avons testé de nombreux spots de coworking qui à l'époque semblaient « insolites » pour beaucoup de monde. Cela nous à couté moins cher que les bureaux partagés co-working business de l'époque à Marseille ; cela à permis dse rencontres avec des marin-pécheurs ; cela été fait avec plus de libertés et de conforts que ne le permettaient les espaces auto-proclamés co-working.
 
-Lors de cette expérience courte mais intense, une petite communauté d'une cinquante de personne s'était formée. Nous avons surtout appris que cela plaisait beaucoup aux commerçants indépendants,aux associations, et d'autres, de voir des dévelopeuses et développeurs, juristes, graphistes, étudiant⋅e⋅s, entrepreneur⋅e⋅s, freelances, venir travailler à leurs cotés.
+Lors de cette expérience courte mais intense, une petite communauté d'une cinquante de personne s'était formée. Nous avons surtout appris que cela plaisait beaucoup aux commerçants indépendants,aux associations, et d'autres, de voir des dévelopeuses et développeurs, juristes, graphistes, étudiant⋅e⋅s, entrepreneur⋅e⋅s, freelances, venir travailler à leurs cotés. Nous avons appris que le blogging décrivant lieux et recettes pour traviller de manière insolite pouvait faciliter les circonstances de rencontres.
 
 J'ai quitté Marseille et workncoffee fin 2013, voyant Marseille comme un terrain de jeu de coworking de 240 km² et ses 111 quartiers.
 
-De 2013 à 2018 j'ai participé à plusieurs diverses projets concernant lesmutations du travail, soit comme contributeur, soit comme fondatuer-contributeur.
+De 2013 à 2018 j'ai participé à plusieurs diverses projets concernant les mutations du travail et les ogranisations novatrices, soit comme contributeur, soit comme fondatuer-contributeur.
 
 ### Démarches liées et projets connectés
 
