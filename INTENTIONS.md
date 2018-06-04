@@ -138,6 +138,10 @@ _en cours de rédaction ; **pattern**, **strutures libres** et **strates**_
 
 ![](/assets/blog/images/layerscommonslandscape_2.jpg)
 
+Faire Paysages en Communs
+
+![](/assets/blog/images/layerscommonslandscape_3.jpg)
+
 ### Objet de l'action
 
 _en cours de rédaction_
