@@ -15,7 +15,7 @@ Structure libre (free framework) pour faire tiers-lieux presque partout et paysa
 
 ## Soutenir
 
-L'objetcif miminmu ext de 500€ avant le 30 juin 2018, avec un espoir de 1000€ pour les 3 mois de travail. Commencé au 1er juin, date de sortie 10 spetembre 2018. 
+L'objetcif mimimum ext de 500€ avant le 30 juin 2018, avec un espoir de 1000€ pour les 3 mois de travail en plus de la rédaction de [ce livre numérique sous licence CC0](https://xavcc.gitbooks.io/elm-chaos) pour papprednre la programmation en elm. Forkncoffe est commencé au 1er juin, date de sortie 10 septembre 2018. 
 
 Pour soutenir, 3 moyens possibles : 
 
